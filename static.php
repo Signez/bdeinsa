@@ -167,9 +167,10 @@
       </nav>
       <div class="horaires">
         <h3>Horaires</h3>
+        <!--
         <h4>Horaires de l'accueil</h4>
         <dl> 
-          <dt>Lundi, Mardi, Mercredi</dt><dd>10h-19h</dd> 
+          <dt>Lun., Mar., Mer.</dt><dd>10h-19h</dd>
           <dt>Jeudi</dt><dd>10h-18h</dd> 
           <dt>Vendredi</dt><dd>10h-15h</dd>
         </dl>
@@ -179,6 +180,28 @@
           <dt>Jeudi</dt><dd>12h-16h</dd> 
           <dt>Vendredi</dt><dd>12h-14h</dd>
         </dl>
+        -->
+        <table>
+          <tr>
+            <th></th>
+            <th>Accueil</th>
+            <th>Coop</th>
+          </tr>
+          <tr>
+            <th>Lun., Mar., Mer.</th>
+            <td>10h-19h</td>
+            <td class="mini">12h-14h<br />18h-19h</td>
+          </tr>
+          <tr>
+            <th>Jeudi</th>
+            <td>10h-18h</td>
+            <td>12h-16h</td>
+          </tr>
+          <tr>
+            <th>Vendredi</th>
+            <td>10h-15h</td>
+            <td>12h-14h</td>
+          </tr>
       </div>
     </div>
   </footer>
