@@ -17,7 +17,7 @@
     Le site que vous voyez ci-dessous est un prototype <strong>rapide</strong>, créé rapidement pour récolter rapidement
     de nombreux avis sur le design, l'organisation rapide du site sur une <em>page statique</em>. Les données qui y sont
     totalement fictives (et ajoutées à l'arrache). <br/>
-    Créé par un (semi-)membre<sup>[réf. nécessaire]</sup> de l'équipe Orga'IF/Web du BdE, il ne représente qu'une idée
+    Créé par un membre<sup>[réf. nécessaire]</sup> de l'équipe Orga'IF/Web du BdE, il ne représente qu'une idée
     et peut être aisément modifié ; n'hésitez pas à <em>contribuer</em> à son enrichissement en donnant votre avis.
   </div>
   <div id="top"> 
